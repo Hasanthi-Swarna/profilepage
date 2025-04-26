@@ -1,4 +1,4 @@
-# Profile Page
+Profile Page
 
 Welcome to my Profile Page repository! 🌟
 
